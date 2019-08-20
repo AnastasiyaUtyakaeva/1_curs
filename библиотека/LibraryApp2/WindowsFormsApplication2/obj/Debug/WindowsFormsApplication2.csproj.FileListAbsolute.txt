@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\bin\Debug\journals.txt
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\bin\Debug\books.txt
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\bin\Debug\librarians.txt
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\bin\Debug\lll.txt
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormOptions.resources
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FormAbout.resources
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Пользователь\Downloads\LibraryApp2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

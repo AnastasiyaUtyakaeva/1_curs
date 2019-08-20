@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<opers>
+  <oper ID ="1">
+    <style>Химчистка</style>
+  </oper>
+  <oper ID="2">
+    <style>Обычная стирка</style>
+  </oper>
+</opers>

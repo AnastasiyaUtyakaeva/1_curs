@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clients>
+  <Client ID="1">
+    <FIO>Шамаев Григорий Григорьевич</FIO>
+  </Client>
+  <Client ID="2">
+    <FIO>Путин Владимир Владимирович</FIO>
+  </Client>
+  <Client ID="3">
+    <FIO>Соколов Игорь Петрович</FIO>
+  </Client>
+  <Client ID="4">
+    <FIO>Пянзин Станислав Борисович</FIO>
+  </Client>
+  <Client ID="5">
+    <FIO>Матвеева Юлия Сергеевна</FIO>
+  </Client>
+  <Client ID="6">
+    <FIO>Артамонов Иван Васильевич</FIO>
+  </Client>
+  <Client ID="7">
+    <FIO>Джигурда Никита Борисович</FIO>
+  </Client>
+  <Client ID="8">
+    <FIO>Петросян Евгений Ваганыч</FIO>
+  </Client>
+  <Client ID="9">
+    <FIO>Дей Михаил Васильевич</FIO>
+  </Client>
+</clients>

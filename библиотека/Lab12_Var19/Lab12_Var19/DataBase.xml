@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Zayavki>
+  <Zayavka ID="1">
+    <Client>1</Client>
+    <OperrationType>1</OperrationType>
+    <Cost>1500</Cost>
+    <During>1:40</During>
+    <Date>07.01.2015 0:00:00</Date>
+  </Zayavka>
+  <Zayavka ID="2">
+    <Client>2</Client>
+    <OperrationType>2</OperrationType>
+    <Cost>2500</Cost>
+    <During>2:20</During>
+    <Date>31.01.2015 00:00</Date>
+  </Zayavka>
+  <Zayavka ID="3">
+    <Client>2</Client>
+    <OperrationType>1</OperrationType>
+    <Cost>1000</Cost>
+    <During>10:00</During>
+    <Date>31.01.2015 00:00</Date>
+  </Zayavka>
+  <Zayavka ID="4">
+    <Client>3</Client>
+    <OperrationType>2</OperrationType>
+    <Cost>1234</Cost>
+    <During>0:32</During>
+    <Date>31.01.2015 00:00</Date>
+  </Zayavka>
+  <Zayavka ID="5">
+    <Client>4</Client>
+    <OperrationType>1</OperrationType>
+    <Cost>230</Cost>
+    <During>1:00</During>
+    <Date>31.01.2015 00:00</Date>
+  </Zayavka>
+  <Zayavka ID="6">
+    <Client>5</Client>
+    <OperrationType>1</OperrationType>
+    <Cost>1000</Cost>
+    <During>2:00</During>
+    <Date>31.01.2015 00:00</Date>
+  </Zayavka>
+  <Zayavka ID="7">
+    <Client>6</Client>
+    <OperrationType>2</OperrationType>
+    <Cost>500</Cost>
+    <During>2:30</During>
+    <Date>31.01.2015 00:00</Date>
+  </Zayavka>
+  <Zayavka ID="8">
+    <Client>7</Client>
+    <OperrationType>1</OperrationType>
+    <Cost>1500</Cost>
+    <During>1:42</During>
+    <Date>31.01.2015 00:00</Date>
+  </Zayavka>
+  <Zayavka ID="9">
+    <Client>2</Client>
+    <OperrationType>1</OperrationType>
+    <Cost>1234</Cost>
+    <During>0:44</During>
+    <Date>01.02.2015 0:00:00</Date>
+  </Zayavka>
+  <Zayavka ID="10">
+    <Client>8</Client>
+    <OperrationType>1</OperrationType>
+    <Cost>124</Cost>
+    <During>0:54</During>
+    <Date>01.02.2015 0:00:00</Date>
+  </Zayavka>
+  <Zayavka ID="11">
+    <Client>9</Client>
+    <OperrationType>2</OperrationType>
+    <Cost>1234</Cost>
+    <During>0:45</During>
+    <Date>01.02.2015 0:00:00</Date>
+  </Zayavka>
+</Zayavki>

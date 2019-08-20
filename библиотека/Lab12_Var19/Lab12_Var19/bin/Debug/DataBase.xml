@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Zayavki>
+  <Zayavka ID="1">
+    <client>Шамаев Григорий Григорьевич</client>
+    <OperrationType>1</OperrationType>
+    <Cost>1500</Cost>
+    <During>1:40</During>
+    <Nomenklatura>8050001</Nomenklatura>
+  </Zayavka>
+  <Zayavka ID="2">
+    <client>
+      <Family> Шамаев</Family>
+      <Name>Григорий</Name>
+      <Surname>Григорьевич</Surname>
+    </client>
+    <OperrationType>1</OperrationType>
+    <Cost>1500</Cost>
+    <During>1:40</During>
+    <Nomenklatura>8050001</Nomenklatura>
+  </Zayavka>
+</Zayavki>
